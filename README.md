@@ -8,3 +8,4 @@
 # Мы много времени проведим вместе: гуляем, веселимся, но чаще всего делаем вместе домашнюю работу.
 # У меня много социальных сетей, т.к. мы живем в современном мире и это самый легкий способ найти нужного вам человека.
 # ![alt-текст](https://github.com/gerasimovaantoninaivanovna/seminar_1/blob/patch-1/(1).jpg)
+# ![alt-текст](https://github.com/gerasimovaantoninaivanovna/seminar_1/blob/patch-1/65912-I-Love-My-Friends.gif)
